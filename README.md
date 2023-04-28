@@ -121,23 +121,6 @@ int main(void)
 ## Proteus layout(Add pdf screen shot of circuit here)
 
 ![vin1](https://user-images.githubusercontent.com/93427254/234926965-6dcbf329-90b3-4ff4-ac73-619f656182ba.png)
-
- 
- 
-## Result :
-Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
-
-
-
-## STM 32 CUBE PROGRAM :
-
-
-
-
-## Output screen shots of proteus  :
- 
- 
- 
  
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
